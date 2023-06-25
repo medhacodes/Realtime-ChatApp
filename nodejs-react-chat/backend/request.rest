@@ -1,0 +1,8 @@
+
+ http://localhost:3001/authenticate
+
+
+
+content-Type: application/json
+
+{"username": "medhaa"}
